@@ -1,0 +1,15 @@
+.internal-embed.image-embed {
+  position: relative;
+  &:hover::after {
+    content: attr(alt);
+    display: block;
+    position: absolute;
+    background-color: var(--background-primary);
+    border: 1px solid var(--color-base-30);
+    border-radius: var(--size-2-2);
+    padding: 0.5em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
