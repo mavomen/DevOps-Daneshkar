@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "02 - Diurnus/Daily Notes",
+    "template": "05 - Breagen/00 - Guides/07 - Periodic Notes/000 - Templates/001 - Daily Notes Template.md",
+    "enabled": true,
+    "format": "YYYY-MM-DD"
+  },
+  "weekly": {
+    "format": "YYYY-[w]",
+    "template": "05 - Breagen/00 - Guides/07 - Periodic Notes/000 - Templates/002 - Weekly Notes Template.md",
+    "folder": "02 - Diurnus/Weekly Notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "template": "05 - Breagen/00 - Guides/07 - Periodic Notes/000 - Templates/003 - Monthly Notes Template.md",
+    "folder": "02 - Diurnus/Monthly Notes",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY-[Q]Q",
+    "template": "05 - Breagen/00 - Guides/07 - Periodic Notes/000 - Templates/004 - Quarterly Notes Template.md",
+    "folder": "02 - Diurnus/Quarterly Notes",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "05 - Breagen/00 - Guides/07 - Periodic Notes/000 - Templates/005 - Yearly Notes Template.md",
+    "folder": "02 - Diurnus/Yearly Notes",
+    "enabled": true
+  }
+}

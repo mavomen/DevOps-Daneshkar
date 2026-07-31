@@ -1,0 +1,28 @@
+
+@font-face {
+  font-family: "B-Nazanin";
+  src: url("https://db.onlinewebfonts.com/c/3671adca6f650c92b83f906e49656986?family=B+Nazanin") format("woff2");
+  src: url("https://db.onlinewebfonts.com/t/3671adca6f650c92b83f906e49656986.eot");
+  src: url("https://db.onlinewebfonts.com/t/3671adca6f650c92b83f906e49656986.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/3671adca6f650c92b83f906e49656986.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/3671adca6f650c92b83f906e49656986.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/3671adca6f650c92b83f906e49656986.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/3671adca6f650c92b83f906e49656986.svg#B Nazanin")format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.markdown-preview-view [dir="rtl"],
+.cm-content [dir="rtl"] {
+  font-family: "B-Nazanin", sans-serif !important;
+}
+
+@media print {
+  body {
+    font-family: "B-Nazanin", sans-serif !important;
+  }
+  .markdown-preview-view [dir="rtl"],
+  .cm-content [dir="rtl"] {
+    font-family: "B-Nazanin", sans-serif !important;
+  }
+}

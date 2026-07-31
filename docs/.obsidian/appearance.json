@@ -1,0 +1,29 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#3f743e",
+  "cssTheme": "AMOLED Serenity",
+  "baseFontSize": 11,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Fenix",
+  "textFontFamily": "Avenir Next Condensed",
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "textsnippets",
+    "UnorderedListStylingSnippet",
+    "TextSnippets",
+    "SideNoteCalloutSnippet",
+    "CheckboxesSnippets - Copy (6) - Copy",
+    "CheckboxesSnippets - Copy (5) - Copy",
+    "TextColumnsSnippet",
+    "DirectoryColoringSnippet",
+    "ColoredTabHeaderContainerSnippet",
+    "PersianFont Snippet",
+    "FileExplorerStylingSnippet",
+    "CheckboxesSnippets",
+    "ImageStylingHooverDescriptionSnippet",
+    "ImageStylingZoomSnippet"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": true
+}

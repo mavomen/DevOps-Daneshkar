@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "tabSize": 4,
+  "vimMode": true,
+  "focusNewTab": false,
+  "showInlineTitle": true,
+  "rightToLeft": false
+}
