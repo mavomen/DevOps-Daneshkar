@@ -1,5 +1,5 @@
 ---
-id: 02-DailyWOrkflowMOC
+id: 02-DailyWorkflowMOC
 aliases: []
 tags: []
 ---
