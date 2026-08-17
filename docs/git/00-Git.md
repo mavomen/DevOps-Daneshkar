@@ -75,6 +75,10 @@ This is the canonical entry point for the Git vault (concepts → commands → w
 - [[Commands/Branching/git-merge|git merge]]
 - [[Commands/Branching/git-rebase|git rebase]]
 
+## Note Format
+
+- [[NOTE_FORMAT|Note Format Guide]]
+
 ## Next expansions (we will build later, without changing existing)
 
 - Workflows/
