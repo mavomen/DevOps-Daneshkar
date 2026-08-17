@@ -471,14 +471,6 @@ git diff > changes.patch
 git apply changes.patch  # Apply patch later
 ```
 
-## Related Commands
-
-- [[git-status]] - See which files have changes
-- [[git-add]] - Stage changes shown in diff
-- [[git-show]] - Show changes in specific commit
-- [[git-log]] - View commit history
-- [[git-apply]] - Apply patch files
-
 ## Examples
 
 ```bash
@@ -501,3 +493,12 @@ git diff --stat               # Statistics only
 git diff --name-only          # File names only
 git diff --word-diff          # Word-level differences
 ```
+
+
+## Related Notes
+
+- [[git-status]] - See which files have changes
+- [[git-add]] - Stage changes shown in diff
+- [[git-show]] - Show changes in specific commit
+- [[git-log]] - View commit history
+- [[git-apply]] - Apply patch files

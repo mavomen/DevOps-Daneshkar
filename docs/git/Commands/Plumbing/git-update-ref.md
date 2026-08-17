@@ -84,7 +84,7 @@ If you moved a ref incorrectly:
 - Use [[git-reflog]] to find previous positions
 - Reset/move back using a known good hash
 
-## Related Commands
+## Related Notes
 
 - [[git-rev-parse]] - resolve refs and hashes
 - [[git-reflog]] - recover previous ref positions

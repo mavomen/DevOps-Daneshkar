@@ -66,7 +66,7 @@ git diff           # unstaged
 git diff --staged  # staged
 ```
 
-## Related Commands
+## Related Notes
 
 - [[git-add]] - populate the index
 - [[git-cat-file]] - inspect tree objects

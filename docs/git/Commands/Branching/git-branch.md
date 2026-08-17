@@ -483,14 +483,6 @@ git branch --list "feature/2024*"
 git branch --sort=-committerdate | head -10
 ```
 
-## Related Commands
-
-- [[git-switch]] - Modern branch switching
-- [[git-checkout]] - Legacy branch operations
-- [[git-merge]] - Combine branches
-- [[git-rebase]] - Reapply commits
-- [[Branch]] - Understanding branch concepts
-
 ## Examples
 
 ```bash
@@ -514,3 +506,12 @@ git branch --sort=-committerdate       # Sort by date
 git branch --list "feature/*"          # Pattern matching
 git branch -m old-name new-name        # Rename branch
 ```
+
+
+## Related Notes
+
+- [[git-switch]] - Modern branch switching
+- [[git-checkout]] - Legacy branch operations
+- [[git-merge]] - Combine branches
+- [[git-rebase]] - Reapply commits
+- [[Branch]] - Understanding branch concepts

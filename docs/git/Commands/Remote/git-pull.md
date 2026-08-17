@@ -125,7 +125,7 @@ Or commit your work before pulling.
   - `git log --graph --oneline --decorate --all`
 - Team policy may prefer `--rebase` or `--ff-only`
 
-## Related Commands
+## Related Notes
 
 - [[Commands/Remote/git-fetch|git fetch]]
 - [[Commands/Branching/git-merge|git merge]]

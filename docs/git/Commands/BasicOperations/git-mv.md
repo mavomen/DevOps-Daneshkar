@@ -101,7 +101,7 @@ git commit -m "chore: normalize filename case"
 
 `git mv` works best for tracked paths. If it’s untracked, just move it and then `git add`.
 
-## Related Commands
+## Related Notes
 
 - [[git-add]]
 - [[git-rm]]

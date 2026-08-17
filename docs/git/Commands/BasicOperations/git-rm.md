@@ -509,14 +509,6 @@ git commit -m "Remove temp files and update gitignore"
 - Consider deprecation period before removal
 - Use meaningful commit messages for removals
 
-## Related Commands
-
-- [[git-add]] - Stage files for addition
-- [[git-mv]] - Move/rename files
-- [[git-status]] - Check file states
-- [[git-clean]] - Remove untracked files
-- [[FileLifecycle]] - Understanding file states
-
 ## Examples
 
 ```bash
@@ -538,3 +530,12 @@ git rm -f modified-file.txt           # Force remove modified file
 # Dry run and preview
 git rm --dry-run '*.backup'           # Preview what would be removed
 ```
+
+
+## Related Notes
+
+- [[git-add]] - Stage files for addition
+- [[git-mv]] - Move/rename files
+- [[git-status]] - Check file states
+- [[git-clean]] - Remove untracked files
+- [[FileLifecycle]] - Understanding file states

@@ -90,7 +90,7 @@ Always include `--` to separate ref from paths:
 git checkout HEAD -- --weird-filename.txt
 ```
 
-## Related Commands
+## Related Notes
 
 - [[git-checkout]]
 - [[git-restore]]

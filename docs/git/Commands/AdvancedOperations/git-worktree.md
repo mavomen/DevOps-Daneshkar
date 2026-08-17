@@ -75,12 +75,6 @@ If worktrees were removed manually at filesystem level:
 git worktree prune
 ```
 
-## Related Commands
-
-- [[git-switch]] - normal single worktree switching
-- [[git-stash]] - alternative approach if you don’t want multiple folders
-- [[git-branch]] - create/manage branches
-
 ## Examples
 
 ```bash
@@ -88,3 +82,10 @@ git worktree prune
 git worktree add ../repo-main main
 git worktree add -b feature/x ../repo-feature-x main
 ```
+
+
+## Related Notes
+
+- [[git-switch]] - normal single worktree switching
+- [[git-stash]] - alternative approach if you don’t want multiple folders
+- [[git-branch]] - create/manage branches

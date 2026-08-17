@@ -107,12 +107,6 @@ git push --force origin v1.0.0
 
 > Only force if your team policy allows; otherwise create a new version tag.
 
-## Related Commands
-
-- [[git-log]] / [[git-show]] - find and verify target commit
-- [[git-push]] - publish tags
-- [[git-checkout]] - you can checkout a tag (detached HEAD)
-
 ## Examples
 
 ```bash
@@ -122,3 +116,10 @@ git pull --ff-only
 git tag -a v2.1.0 -m "Release v2.1.0"
 git push origin main --tags
 ```
+
+
+## Related Notes
+
+- [[git-log]] / [[git-show]] - find and verify target commit
+- [[git-push]] - publish tags
+- [[git-checkout]] - you can checkout a tag (detached HEAD)

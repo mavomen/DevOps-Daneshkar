@@ -93,7 +93,7 @@ git show <commit-hash> -- path/to/file
 - If a file was renamed, `git blame` won’t automatically follow renames; you may need to inspect history with:
   - `git log --follow -- path/to/file` (see [[git-log]])
 
-## Related Commands
+## Related Notes
 
 - [[git-log]] - explore file history
 - [[git-show]] - inspect a specific commit

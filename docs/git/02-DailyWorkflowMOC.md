@@ -24,6 +24,14 @@ How you typically operate day-to-day: inspect → stage → commit → integrate
 
 - [[Commands/BasicOperations/git-restore|git restore]]
 - [[Commands/BasicOperations/git-rm|git rm]]
+- [[Commands/AdvancedOperations/git-stash|git stash]]
+
+## Configuration
+
+- [[Commands/Setup/git-config|git config]]
+- [[GitConfiguration|Git Configuration]]
+- [[GitAliases|Git Aliases]]
+- [[GitIgnorePatterns|Git Ignore Patterns]]
 
 ## Branching
 

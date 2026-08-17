@@ -87,7 +87,7 @@ git rm --cached path/to/file
 
 See: [[git-rm]]
 
-## Related Commands
+## Related Notes
 
 - [[git-status]]
 - [[git-rm]]

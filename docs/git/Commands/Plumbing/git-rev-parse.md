@@ -86,7 +86,7 @@ git rev-parse v1.0.0^{commit}
 git rev-parse HEAD^{tree}
 ```
 
-## Related Commands
+## Related Notes
 
 - [[git-cat-file]] - inspect the object you resolved
 - [[git-log]] / [[git-show]] - human-friendly history views

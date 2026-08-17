@@ -112,7 +112,7 @@ Useful when you need to inspect many objects efficiently.
   - `git fetch`
 - or you mistyped the hash/ref
 
-## Related Commands
+## Related Notes
 
 - [[git-rev-parse]] - resolve names to object IDs
 - [[git-hash-object]] - create blob objects from content
