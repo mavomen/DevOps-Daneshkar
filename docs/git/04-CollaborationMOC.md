@@ -14,13 +14,10 @@ Team workflows depend on clean local habits + remote sync discipline.
 - [[DistributedvsCentralized|DistributedvsCentralized]]
 - [[MergevsRebase|MergevsRebase]]
 
-## Commands you already have
+## Commands
 
 - [[Commands/Setup/git-clone|git clone]]
-
-## Commands to add later (planned)
-
-- git remote
-- git fetch
-- git pull
-- git push
+- [[Commands/Remote/git-remote|git remote]]
+- [[Commands/Remote/git-fetch|git fetch]]
+- [[Commands/Remote/git-pull|git pull]]
+- [[Commands/Remote/git-push|git push]]

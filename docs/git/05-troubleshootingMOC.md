@@ -22,8 +22,30 @@ A diagnostic flow: inspect state → inspect history → recover safely.
 - [[SHAHash|SHAHash]]
 - [[TheThreeStates|TheThreeStates]]
 
-## Planned troubleshooting notes (to create later)
+## Common Problems
 
-- MergeConflicts
-- DetachedHead
-- LostCommits
+- [[Troubleshooting/CommonProblems/MergeConflicts|MergeConflicts]]
+- [[Troubleshooting/CommonProblems/DetachedHead|DetachedHead]]
+- [[Troubleshooting/CommonProblems/LostCommits|LostCommits]]
+- [[Troubleshooting/CommonProblems/AuthenticationFailures|AuthenticationFailures]]
+- [[Troubleshooting/CommonProblems/CorruptedRepository|CorruptedRepository]]
+- [[Troubleshooting/CommonProblems/LargeFileIssues|LargeFileIssues]]
+- [[Troubleshooting/CommonProblems/PermissionDenied|PermissionDenied]]
+- [[Troubleshooting/CommonProblems/SlowGitOperations|SlowGitOperations]]
+
+## Prevention
+
+- [[Troubleshooting/Prevention/SafeGitPractices|SafeGitPractices]]
+- [[Troubleshooting/Prevention/BackupStrategies|BackupStrategies]]
+- [[Troubleshooting/Prevention/RepositoryHealthChecks|RepositoryHealthChecks]]
+- [[Troubleshooting/Prevention/TeamGuidelines|TeamGuidelines]]
+
+## Recovery Scenarios
+
+- [[Troubleshooting/RecoveryScenarios/UndoLastCommit|UndoLastCommit]]
+- [[Troubleshooting/RecoveryScenarios/RecoverLostChanges|RecoverLostChanges]]
+- [[Troubleshooting/RecoveryScenarios/RecoverDeletedBranch|RecoverDeletedBranch]]
+- [[Troubleshooting/RecoveryScenarios/ResetToPreviousState|ResetToPreviousState]]
+- [[Troubleshooting/RecoveryScenarios/RestoreDeletedFiles|RestoreDeletedFiles]]
+- [[Troubleshooting/RecoveryScenarios/FixBadMerge|FixBadMerge]]
+- [[Troubleshooting/RecoveryScenarios/FixWrongBranchCommit|FixWrongBranchCommit]]
