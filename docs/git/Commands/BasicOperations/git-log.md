@@ -497,14 +497,6 @@ git log --author="John\|Jane\|Bob" --since="1 month ago" --oneline
 git log --merges --pretty=format:"%h %s (%an)" --since="1 week ago"
 ```
 
-## Related Commands
-
-- [[git-show]] - Display specific commits
-- [[git-blame]] - Show who changed each line
-- [[git-reflog]] - Show reference history
-- [[git-shortlog]] - Summarized log by author
-- [[GitHistory]] - Understanding repository history
-
 ## Examples
 
 ```bash
@@ -530,3 +522,12 @@ git shortlog -sn                      # Author contribution summary
 git log -S "function_name" -p         # Find changes to specific code
 git log --follow -- renamed-file.txt  # Follow file through renames
 ```
+
+
+## Related Notes
+
+- [[git-show]] - Display specific commits
+- [[git-blame]] - Show who changed each line
+- [[git-reflog]] - Show reference history
+- [[git-shortlog]] - Summarized log by author
+- [[GitHistory]] - Understanding repository history

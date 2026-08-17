@@ -204,7 +204,7 @@ git branch -a && git tag
 - [[git-reflog]] - Find lost commits
 - Backup and restore strategies
 
-## Related Concepts
+## Related Notes
 
 - [[WorkingDirectory]] - Your project files
 - [[StagingArea]] - Preparing commits
@@ -212,12 +212,3 @@ git branch -a && git tag
 - [[Remote]] - External repositories
 - [[Branch]] - Parallel development
 
-## Quick Reference
-
-| Command                     | Purpose                  |
-| --------------------------- | ------------------------ |
-| `git init`                  | Create new repository    |
-| `git clone <url>`           | Copy existing repository |
-| `git status`                | Check repository state   |
-| `git remote -v`             | List connected remotes   |
-| `git config --list --local` | View repo configuration  |

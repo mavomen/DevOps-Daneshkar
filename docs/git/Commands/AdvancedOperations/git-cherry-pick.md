@@ -104,13 +104,6 @@ Sometimes the commit changes already exist (e.g., applied via another commit). G
 - skip: `git cherry-pick --skip`
 - or allow empty commit if you intentionally want it (rare)
 
-## Related Commands
-
-- [[git-rebase]] - reapply a whole series of commits (often better for “move branch base”)
-- [[git-merge]] - integrate full branch history
-- [[git-revert]] - undo a commit safely on shared branches
-- [[git-log]] / [[git-show]] - find and inspect commits
-
 ## Examples
 
 ```bash
@@ -122,3 +115,11 @@ git cherry-pick <fix-commit>
 git switch main
 git cherry-pick <commit-from-feature>
 ```
+
+
+## Related Notes
+
+- [[git-rebase]] - reapply a whole series of commits (often better for “move branch base”)
+- [[git-merge]] - integrate full branch history
+- [[git-revert]] - undo a commit safely on shared branches
+- [[git-log]] / [[git-show]] - find and inspect commits

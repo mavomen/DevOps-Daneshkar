@@ -106,12 +106,6 @@ See: [[ConflictResolution]]
 
 Default stash excludes untracked files. Use `-u`.
 
-## Related Commands
-
-- [[git-switch]] / [[git-checkout]] - context switching
-- [[git-clean]] - remove untracked junk (different problem)
-- [[git-commit]] - make a real checkpoint instead of stashing
-
 ## Examples
 
 ```bash
@@ -122,3 +116,10 @@ git switch hotfix/critical
 git switch -
 git stash pop
 ````
+
+
+## Related Notes
+
+- [[git-switch]] / [[git-checkout]] - context switching
+- [[git-clean]] - remove untracked junk (different problem)
+- [[git-commit]] - make a real checkpoint instead of stashing

@@ -437,14 +437,6 @@ git show --text=false 1a2b3c4
 git show 1a2b3c4 -- src/specific-file.js
 ```
 
-## Related Commands
-
-- [[git-log]] - Show commit history
-- [[git-diff]] - Compare versions
-- [[git-cat-file]] - Show raw object content
-- [[git-ls-tree]] - List tree objects
-- [[git-blame]] - Show line-by-line attribution
-
 ## Examples
 
 ```bash
@@ -472,3 +464,12 @@ git show --word-diff HEAD             # Word-level differences
 git show HEAD~3 HEAD~2 HEAD~1        # Show multiple commits
 git show v1.0.0 v2.0.0               # Show multiple tags
 ```
+
+
+## Related Notes
+
+- [[git-log]] - Show commit history
+- [[git-diff]] - Compare versions
+- [[git-cat-file]] - Show raw object content
+- [[git-ls-tree]] - List tree objects
+- [[git-blame]] - Show line-by-line attribution

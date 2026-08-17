@@ -1,5 +1,5 @@
 ---
-id: Uptream&Origin
+id: UpstreamAndOrigin
 aliases: []
 tags: []
 ---
@@ -104,7 +104,7 @@ git push origin main
 
 > Some teams prefer `rebase` here; the merge is the simplest safe default on a shared `main`.
 
-## Related Commands / Notes
+## Related Notes
 
 - [[git-remote]]
 - [[git-fetch]]

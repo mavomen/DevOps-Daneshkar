@@ -106,7 +106,7 @@ git add path/to/file
 
 ### 5) Finish the operation
 
-#### If it was a merge:
+### If it was a merge:
 
 ```bash
 git commit
@@ -114,7 +114,7 @@ git commit
 git merge --continue
 ```
 
-#### If it was a rebase:
+### If it was a rebase:
 
 ```bash
 git rebase --continue
@@ -149,7 +149,7 @@ git rebase --abort
 - Avoid sweeping formatting changes mixed with logic changes
 - Use small, atomic commits for easier rebase conflict resolution
 
-## Related Commands
+## Related Notes
 
 - [[git-merge]]
 - [[git-rebase]]

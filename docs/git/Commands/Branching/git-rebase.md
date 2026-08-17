@@ -458,14 +458,6 @@ git -c core.hooksPath=/dev/null rebase main
 git -c merge.renameLimit=0 rebase main
 ```
 
-## Related Commands
-
-- [[git-merge]] - Alternative integration method
-- [[git-cherry-pick]] - Apply individual commits
-- [[InteractiveRebase]] - Detailed interactive operations
-- [[git-reflog]] - Recovery from rebase issues
-- [[Branch]] - Understanding branch concepts
-
 ## Examples
 
 ```bash
@@ -490,3 +482,12 @@ git rebase -i --autosquash main       # Auto-arrange fixup commits
 # Safe pushing
 git push --force-with-lease origin feature  # Safe force push after rebase
 ```
+
+
+## Related Notes
+
+- [[git-merge]] - Alternative integration method
+- [[git-cherry-pick]] - Apply individual commits
+- [[InteractiveRebase]] - Detailed interactive operations
+- [[git-reflog]] - Recovery from rebase issues
+- [[Branch]] - Understanding branch concepts

@@ -455,14 +455,6 @@ git restore file\#with\#hash.txt
 git restore --staged -- -weird-filename.txt
 ```
 
-## Related Commands
-
-- [[git-status]] - Check what files need restoration
-- [[git-diff]] - See what changes would be lost
-- [[git-stash]] - Temporarily save changes
-- [[git-checkout]] - Legacy command for some restore operations
-- [[git-reset]] - Alternative for unstaging (with caveats)
-
 ## Examples
 
 ```bash
@@ -485,3 +477,12 @@ git restore '*.js'                   # Restore all JavaScript files
 # Combined operations
 git restore --staged --worktree file.txt  # Unstage and discard changes
 ```
+
+
+## Related Notes
+
+- [[git-status]] - Check what files need restoration
+- [[git-diff]] - See what changes would be lost
+- [[git-stash]] - Temporarily save changes
+- [[git-checkout]] - Legacy command for some restore operations
+- [[git-reset]] - Alternative for unstaging (with caveats)

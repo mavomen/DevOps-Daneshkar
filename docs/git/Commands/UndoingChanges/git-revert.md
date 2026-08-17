@@ -108,7 +108,7 @@ git revert --abort
 - Use `revert` when the commit is already shared/pushed
 - Use `reset` for private branch cleanup before sharing
 
-## Related Commands
+## Related Notes
 
 - [[git-reset]]
 - [[git-show]]

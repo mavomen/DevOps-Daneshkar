@@ -69,7 +69,7 @@ git hash-object -t blob path/to/file
 - Hashes are computed over a header + content, not just raw bytes, which is why Git hashes differ from hashing a file with `sha1sum`.
 - Writing an object (`-w`) stores it, but it won’t be reachable from any commit unless you link it via trees/commits.
 
-## Related Commands
+## Related Notes
 
 - [[git-cat-file]] - inspect objects you wrote
 - [[git-write-tree]] - build a tree from the index

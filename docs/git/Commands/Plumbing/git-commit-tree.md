@@ -94,7 +94,7 @@ git config user.email
 
 And environment variables if you set them in your shell.
 
-## Related Commands
+## Related Notes
 
 - [[git-write-tree]] - create the tree snapshot
 - [[git-update-ref]] - move branch refs to your new commit

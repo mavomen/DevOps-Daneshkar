@@ -79,7 +79,7 @@ And restore old refs if available (advanced). Safer is: keep a backup clone befo
   - everyone to re-clone or hard reset to new history
 - Also rotate any leaked secrets regardless of cleanup.
 
-## Related Commands
+## Related Notes
 
 - [[git-rebase]] - rewrite a small recent range (safer for day-to-day)
 - [[git-reflog]] - recovery when history manipulation goes wrong

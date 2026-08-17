@@ -116,7 +116,7 @@ git apply changes.patch
 - use `git am --abort` if needed
 - resolve conflicts and `git am --continue`
 
-## Related Commands
+## Related Notes
 
 - [[git-am]]
 - [[git-apply]]

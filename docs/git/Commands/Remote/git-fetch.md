@@ -149,7 +149,7 @@ git rebase origin/main
 - List remote branches after fetch:
   - `git branch -r`
 
-## Related Commands
+## Related Notes
 
 - [[Commands/Remote/git-remote|git remote]]
 - [[Commands/Remote/git-pull|git pull]]

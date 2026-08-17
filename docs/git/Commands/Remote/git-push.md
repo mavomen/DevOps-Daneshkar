@@ -129,7 +129,7 @@ git push --force-with-lease origin feature/my-branch
 - Check upstream: `git branch -vv`
 - Verify remote exists: `git remote -v`
 
-## Related Commands
+## Related Notes
 
 - [[Commands/Remote/git-remote|git remote]]
 - [[Commands/Remote/git-fetch|git fetch]]

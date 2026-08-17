@@ -131,7 +131,7 @@ git reset --hard HEAD@{n}
 - Reflog helps locally, but remote recovery depends on remote state and server retention.
 - First step is still: `git reflog` to find the commit you want.
 
-## Related Commands
+## Related Notes
 
 - [[git-reset]] - often the reason you need reflog
 - [[git-rebase]] - can rewrite history; reflog helps recovery
