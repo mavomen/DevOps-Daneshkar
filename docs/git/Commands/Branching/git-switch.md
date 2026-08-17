@@ -452,14 +452,6 @@ git switch -c feature/JIRA-123-user-auth
 git switch -c hotfix/security-patch-2024-01
 ```
 
-## Related Commands
-
-- [[git-branch]] - Create and manage branches
-- [[git-checkout]] - Legacy branch and file operations
-- [[git-restore]] - Restore working tree files
-- [[git-merge]] - Combine branch changes
-- [[Branch]] - Understanding branch concepts
-
 ## Examples
 
 ```bash
@@ -482,3 +474,12 @@ git switch --discard-changes main   # Switch discarding changes
 git switch origin/feature/test       # Switch to remote branch
 git switch -c my-copy origin/work    # Create local copy of remote
 ```
+
+
+## Related Notes
+
+- [[git-branch]] - Create and manage branches
+- [[git-checkout]] - Legacy branch and file operations
+- [[git-restore]] - Restore working tree files
+- [[git-merge]] - Combine branch changes
+- [[Branch]] - Understanding branch concepts

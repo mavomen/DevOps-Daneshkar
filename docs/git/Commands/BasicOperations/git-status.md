@@ -437,14 +437,6 @@ git merge --abort    # Abort merge
 git rebase --abort   # Abort rebase
 ```
 
-## Related Commands
-
-- [[git-diff]] - See actual changes in files
-- [[git-add]] - Stage changes shown in status
-- [[git-restore]] - Undo changes shown in status
-- [[FileLifecycle]] - Understanding file states
-- [[TheThreeStates]] - Git's file state model
-
 ## Examples
 
 ```bash
@@ -467,3 +459,12 @@ git status --ignored          # Include ignored files
 git status --untracked-files=all  # Show all untracked
 git status --porcelain        # Machine readable format
 ```
+
+
+## Related Notes
+
+- [[git-diff]] - See actual changes in files
+- [[git-add]] - Stage changes shown in status
+- [[git-restore]] - Undo changes shown in status
+- [[FileLifecycle]] - Understanding file states
+- [[TheThreeStates]] - Git's file state model

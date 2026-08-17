@@ -52,7 +52,7 @@ See: [[Workflows/GitFlowWorkflow|Git Flow Workflow]]
 - keep branches short-lived
 - prefer `git revert` for shared rollbacks
 
-Related:
+## Related Notes
 
 - [[BranchProtectionRules]]
 - [[Workflows/DailySyncWorkflow|Daily Sync Workflow]]

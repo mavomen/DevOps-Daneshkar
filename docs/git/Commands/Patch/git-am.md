@@ -129,7 +129,7 @@ git am /path/to/patches/*.patch
 
 This is normal if the patch doesn’t match current code. Resolve and `--continue`.
 
-## Related Commands
+## Related Notes
 
 - [[git-apply]] - apply patch without creating commits
 - [[git-format-patch]] - generate email patches (optional future note)

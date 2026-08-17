@@ -464,14 +464,6 @@ git checkout main
 git merge 1a2b3c4  # Merge specific detached HEAD commit
 ```
 
-## Related Commands
-
-- [[git-switch]] - Modern branch switching
-- [[git-restore]] - Modern file restoration
-- [[git-branch]] - Branch management
-- [[git-merge]] - Combine branches
-- [[git-stash]] - Temporary change storage
-
 ## Examples
 
 ```bash
@@ -495,3 +487,12 @@ git checkout --patch HEAD -- file.txt # Interactive restoration
 git checkout --ours -- conflict.txt   # Resolve conflict (keep ours)
 git checkout HEAD -- 'src/**/*.js'    # Restore all JS files in src/
 ```
+
+
+## Related Notes
+
+- [[git-switch]] - Modern branch switching
+- [[git-restore]] - Modern file restoration
+- [[git-branch]] - Branch management
+- [[git-merge]] - Combine branches
+- [[git-stash]] - Temporary change storage

@@ -95,7 +95,7 @@ git submodule update --init --recursive
 
 That’s normal: submodules often checkout a specific commit. If you want to work on it, create a branch inside the submodule.
 
-## Related Commands
+## Related Notes
 
 - [[git-clone]] - use `--recurse-submodules`
 - [[git-fetch]] / [[git-pull]] - used inside submodule repos

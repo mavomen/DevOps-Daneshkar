@@ -91,7 +91,7 @@ git clean -fd
 - Your files might be tracked (check `git status`)
 - Or they might not match options (e.g., directories require `-d`)
 
-## Related Commands
+## Related Notes
 
 - [[git-status]]
 - [[git-restore]]
@@ -191,7 +191,7 @@ Always include `--` to separate ref from paths:
 git checkout HEAD -- --weird-filename.txt
 ```
 
-## Related Commands
+## Related Notes
 
 - [[git-checkout]]
 - [[git-restore]]

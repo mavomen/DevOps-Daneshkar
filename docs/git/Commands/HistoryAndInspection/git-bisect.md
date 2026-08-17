@@ -139,7 +139,7 @@ git bisect reset
 - Avoid network dependencies
 - Prefer unit/integration tests over manual checks
 
-## Related Commands
+## Related Notes
 
 - [[git-log]] - pick good/bad boundaries
 - [[git-show]] - inspect candidate commits

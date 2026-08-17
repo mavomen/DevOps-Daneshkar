@@ -139,7 +139,7 @@ git remote set-url origin <url>
 - Check whether you have access (private repos need auth)
 - Prefer SSH for fewer credential prompts (if configured)
 
-## Related Commands
+## Related Notes
 
 - [[Commands/Remote/git-fetch|git fetch]] - Download refs/objects from remote
 - [[Commands/Remote/git-pull|git pull]] - Fetch + integrate into current branch

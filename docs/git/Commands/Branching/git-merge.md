@@ -517,14 +517,6 @@ git add resolved-files
 git commit
 ```
 
-## Related Commands
-
-- [[git-rebase]] - Alternative integration method
-- [[git-cherry-pick]] - Selective commit application
-- [[git-revert]] - Undo merge commits
-- [[MergeConflicts]] - Detailed conflict resolution
-- [[Branch]] - Understanding branch concepts
-
 ## Examples
 
 ```bash
@@ -554,3 +546,12 @@ git merge feature-a feature-b feature-c  # Octopus merge
 git merge feature-branch              # Start merge
 git merge --abort                     # Cancel if problems
 ```
+
+
+## Related Notes
+
+- [[git-rebase]] - Alternative integration method
+- [[git-cherry-pick]] - Selective commit application
+- [[git-revert]] - Undo merge commits
+- [[MergeConflicts]] - Detailed conflict resolution
+- [[Branch]] - Understanding branch concepts

@@ -457,14 +457,6 @@ Breaking Changes:
 git tag -a v2.1.0 -m "Version 2.1.0"
 ```
 
-## Related Commands
-
-- [[git-add]] - Stage changes for commit
-- [[git-status]] - Check what can be committed
-- [[git-diff]] - Review changes before commit
-- [[git-log]] - View commit history
-- [[git-show]] - Display commit details
-
 ## Examples
 
 ```bash
@@ -491,3 +483,12 @@ git commit -m "feat(auth): add comprehensive error handling"
 git add tests.js
 git commit -m "test(auth): add authentication test suite"
 ```
+
+
+## Related Notes
+
+- [[git-add]] - Stage changes for commit
+- [[git-status]] - Check what can be committed
+- [[git-diff]] - Review changes before commit
+- [[git-log]] - View commit history
+- [[git-show]] - Display commit details

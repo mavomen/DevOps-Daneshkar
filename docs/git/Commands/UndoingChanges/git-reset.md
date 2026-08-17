@@ -122,7 +122,7 @@ git commit -m "Part 2"
 - `reset` rewrites local history (best for private branches)
 - `revert` preserves history with a new “undo” commit (best for shared branches)
 
-## Related Commands
+## Related Notes
 
 - [[git-revert]]
 - [[git-reflog]]
