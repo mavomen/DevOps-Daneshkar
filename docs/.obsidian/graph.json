@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 8421115
       }
+    },
+    {
+      "query": "path:linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 12211781
+      }
     }
   ],
   "collapse-display": true,
@@ -75,5 +82,5 @@
   "linkStrength": 1,
   "linkDistance": 500,
   "scale": 0.0889892578125,
-  "close": true
+  "close": false
 }
